@@ -1,0 +1,1 @@
+**Strong** markdown __This is Bold__ end markdown.
